@@ -32,7 +32,7 @@ The primary objective is to build a robust model that accurately predicts which 
 
 ---
 
-## 🛠Tools & Libraries
+## Tools & Libraries
 
 - Python 3
 - pandas, numpy  
